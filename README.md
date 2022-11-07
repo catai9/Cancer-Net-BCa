@@ -32,3 +32,5 @@ If there are any technical questions after the README, FAQ, and past/current iss
 	* Amy Tai
     * Hayden Gunraj
     
+## Demo
+A demo of model inference with the CancerNet-BCa-A model on a provided demo CDI^s image can be found in `demo.ipynb`.
