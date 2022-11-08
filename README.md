@@ -10,7 +10,7 @@
 **Cancer-Net BCa is part of the Cancer-Net initiatives, a parallel initiative to the [COVID-Net initiative](https://github.com/lindawangg/COVID-Net).**
 
 <p align="center">
-	<img src="assets/process.png" alt="Proposed workflow" width="25%" height="100%">
+	<img src="assets/process.png" alt="Proposed workflow" width="100%" height="100%">
 	<br>
 </p>
 
