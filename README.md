@@ -28,7 +28,8 @@ If there are any technical questions after the README, FAQ, and past/current iss
 
 ## Quick Links
 1. Main ACRIN-6698 Archive: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=50135447
-2. Cancer-Net BCa models: https://github.com/catai9/Cancer-Net-BCa/blob/main/docs/models.md
+2. Cancer-Net BCa models (Cancer pCR prediction for breast cancer): https://github.com/catai9/Cancer-Net-BCa/blob/main/docs/models.md
+3. Cancer-Net SCa models (Cancer detection for skin cancer): https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md
 
 ## Core Cancer-Net BCa Team
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
