@@ -40,3 +40,17 @@ If there are any technical questions after the README, FAQ, and past/current iss
     
 ## Demo
 A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI^s image can be found in `demo.ipynb`.
+
+
+## Citation
+
+```
+@inproceedings{cancer-net-bca
+	title = {Cancer-Net BCa: Breast Cancer Pathologic Complete Response Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging},
+	author = {Tai, Chi-en Amy and Hodzic, Nedim and Flanagan, Nic and Gunraj, Hayden and Wong, Alexander},
+	booktitle = {Conference and Workshop on Neural Information Processing Systems (NeurIPS)},
+    	series = {Medical Imaging Meets NeurIPS Workshop (MED-NeurIPS)},
+	year = {2022},
+	url = {https://arxiv.org/abs/2211.05308}
+}
+```
