@@ -38,6 +38,7 @@ If there are any technical questions after the README, FAQ, and past/current iss
 1. Main ACRIN-6698 Archive: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=50135447
 2. Cancer-Net BCa models (Cancer pCR prediction for breast cancer): https://github.com/catai9/Cancer-Net-BCa/blob/main/docs/models.md
 3. Cancer-Net SCa models (Cancer detection for skin cancer): https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md
+4. Cancer-Net BCa dataset: https://www.kaggle.com/datasets/amytai/cancernet-bca
 
 ## Core Cancer-Net BCa Team
 * DarwinAI Corp., Canada and Vision and Image Processing Research Group, University of Waterloo, Canada
@@ -45,6 +46,13 @@ If there are any technical questions after the README, FAQ, and past/current iss
 * Vision and Image Processing Research Group, University of Waterloo, Canada
 	* Amy Tai
 	* Hayden Gunraj
+    
+## Dataset
+Cancer-Net BCa, an open access benchmark dataset of volumetric synthetic correlated diffusion imaging (CDIs) data acquisitions of breast cancer patients. Cancer-Net BCa is a part of the Cancer-Net global open-source, open-access initiative dedicated to accelerating advancement in machine learning to aid clinicians in the global fight against cancer.
+
+The volumetric CDIs data acquisitions in the Cancer-Net BCa dataset were generated from a pre-treatment (T0) patient cohort of 253 patient cases from the American College of Radiology Imaging Network (ACRIN) 6698 study.  The patients in this pre-treatment cohort had not received any neoadjuvant chemotherapy at the time of imaging.  The Scarff-Bloom-Richardson (SBR) grade and post-treatment breast cancer pathologic complete response (pCR) to neoadjuvant chemotherapy are provided as output labels for training and evaluating purposes.
+
+This [dataset](https://www.kaggle.com/datasets/amytai/cancernet-bca) is being used to train and validate our Cancer-Net BCa models for pCR prediction from CDIs data acquisitions.
     
 ## Demo
 A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI^s image can be found in `demo.ipynb`.
