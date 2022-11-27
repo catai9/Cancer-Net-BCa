@@ -1,9 +1,11 @@
-# Cancer-Net BCa Open Source Initiative
+# Cancer-Net Open Source Initiative - Cancer-Net BCa
 
 <p align="center">
 	<img src="assets/cancernet_logo.png" alt="CancerNet Logo" width="25%" height="25%">
 	<br>
 </p>
+
+Update 2022-11-26: We released the [Cancer-Net BCa](https://www.kaggle.com/datasets/amytai/cancernet-bca) dataset on Kaggle.
 
 **Note: The Cancer-Net BCa models provided here are intended to be used as reference models that can be built upon and enhanced as new data becomes available. They are currently at a research stage and not yet intended as production-ready models (not meant for direct clinical diagnosis), and we are working continuously to improve them as new data becomes available. Please do not use Cancer-Net BCa for self-diagnosis and seek help from your local health authorities.**
 
