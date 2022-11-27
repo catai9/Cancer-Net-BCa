@@ -42,7 +42,7 @@ If there are any technical questions after the README, FAQ, and past/current iss
 	* Alexander Wong
 * Vision and Image Processing Research Group, University of Waterloo, Canada
 	* Amy Tai
-        * Hayden Gunraj
+	* Hayden Gunraj
     
 ## Demo
 A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI^s image can be found in `demo.ipynb`.
