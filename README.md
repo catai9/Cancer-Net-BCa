@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<img src="assets/sample-bc-images.png" alt="photo not available" width="45%" height="20%">
+	<img src="assets/ACRIN-grid-top100-filter.png" alt="photo not available" width="45%" height="20%">
 	<br>
 	<em>Example DWI images with CDI<sup>s</sup> overlaid for sample patients with breast cancer.</em>
 </p>
