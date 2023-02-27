@@ -61,7 +61,7 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
 ## Citation
 
 ```
-@inproceedings{cancer-net-bca
+@inproceedings{cancer-net-bca,
 	title = {Cancer-Net BCa: Breast Cancer Pathologic Complete Response Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging},
 	author = {Tai, Chi-en Amy and Hodzic, Nedim and Flanagan, Nic and Gunraj, Hayden and Wong, Alexander},
 	booktitle = {Conference and Workshop on Neural Information Processing Systems (NeurIPS)},
