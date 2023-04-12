@@ -5,7 +5,11 @@
 	<br>
 </p>
 
+**Update 2023-04-12:** We added the pretrained Cancer-Net BCa-S-A model (breast cancer grade prediction) in the `models` folder.
+
 **Update 2022-11-26:** We released the [Cancer-Net BCa](https://www.kaggle.com/datasets/amytai/cancernet-bca) dataset on Kaggle.
+
+**Update 2022-11-07:** We added the pretrained Cancer-Net BCa-A model (neoadjuvant pCR prediction) in the `models` folder.
 
 **Note: The Cancer-Net BCa models provided here are intended to be used as reference models that can be built upon and enhanced as new data becomes available. They are currently at a research stage and not yet intended as production-ready models (not meant for direct clinical diagnosis), and we are working continuously to improve them as new data becomes available. Please do not use Cancer-Net BCa for self-diagnosis and seek help from your local health authorities.**
 
@@ -36,7 +40,7 @@ If there are any technical questions after the README, FAQ, and past/current iss
 
 ## Quick Links
 1. Main ACRIN-6698 Archive: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=50135447
-2. Cancer-Net BCa models (Cancer pCR prediction for breast cancer): https://github.com/catai9/Cancer-Net-BCa/blob/main/docs/models.md
+2. Cancer-Net BCa models (Cancer pCR prediction for breast cancer): https://github.com/catai9/Cancer-Net-BCa/models
 3. Cancer-Net SCa models (Cancer detection for skin cancer): https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md
 4. Cancer-Net BCa dataset: https://www.kaggle.com/datasets/amytai/cancernet-bca
 
@@ -60,6 +64,7 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
 
 ## Citation
 
+**Cancer-Net BCa (pCR prediction)**
 ```
 @inproceedings{cancer-net-bca,
 	title = {Cancer-Net BCa: Breast Cancer Pathologic Complete Response Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging},
@@ -68,5 +73,29 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
     	series = {Medical Imaging Meets NeurIPS Workshop (MED-NeurIPS)},
 	year = {2022},
 	url = {https://arxiv.org/abs/2211.05308}
+}
+```
+
+**Cancer-Net BCa-S (grade prediction)**
+```
+@inproceedings{cancer-net-bca-s,
+	title = {Cancer-Net BCa-S: Breast Cancer Grade Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging},
+	author = {Tai, Chi-en Amy and Gunraj, Hayden and Wong, Alexander},
+	booktitle = {Conference on Computer Vision and Pattern Recognition},
+    series = {Women in Computer Vision},
+	year = {2023},
+	url = {TBD}
+}
+```
+
+**Cancer-Net BCa Dataset**
+```
+@inproceedings{cancer-net-bca-dataset,
+	title = {A Multi-Institutional Open-Source Benchmark Dataset for Breast Cancer Clinical Decision Support using Synthetic Correlated Diffusion Imaging Data},
+	author = {Tai, Chi-en Amy and Gunraj, Hayden and Wong, Alexander},
+	booktitle = {Conference on Computer Vision and Pattern Recognition},
+    series = {Women in Computer Vision},
+	year = {2023},
+	url = {TBD}
 }
 ```
