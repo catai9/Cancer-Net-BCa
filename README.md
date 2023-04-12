@@ -81,8 +81,8 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
 @inproceedings{cancer-net-bca-s,
 	title = {Cancer-Net BCa-S: Breast Cancer Grade Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging},
 	author = {Tai, Chi-en Amy and Gunraj, Hayden and Wong, Alexander},
-	booktitle = {Conference on Computer Vision and Pattern Recognition},
-    series = {Women in Computer Vision},
+	booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+    series = {Women in Computer Vision (WiCV)},
 	year = {2023},
 	url = {TBD}
 }
@@ -93,8 +93,8 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
 @inproceedings{cancer-net-bca-dataset,
 	title = {A Multi-Institutional Open-Source Benchmark Dataset for Breast Cancer Clinical Decision Support using Synthetic Correlated Diffusion Imaging Data},
 	author = {Tai, Chi-en Amy and Gunraj, Hayden and Wong, Alexander},
-	booktitle = {Conference on Computer Vision and Pattern Recognition},
-    series = {Women in Computer Vision},
+	booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+    series = {Women in Computer Vision (WiCV)},
 	year = {2023},
 	url = {TBD}
 }
