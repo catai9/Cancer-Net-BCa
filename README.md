@@ -40,7 +40,7 @@ If there are any technical questions after the README, FAQ, and past/current iss
 
 ## Quick Links
 1. Main ACRIN-6698 Archive: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=50135447
-2. Cancer-Net BCa models (Cancer pCR prediction for breast cancer): https://github.com/catai9/Cancer-Net-BCa/blob/models
+2. Cancer-Net BCa models (Cancer pCR prediction for breast cancer): https://github.com/catai9/Cancer-Net-BCa/tree/main/models
 3. Cancer-Net SCa models (Cancer detection for skin cancer): https://github.com/jamesrenhoulee/CancerNet-SCa/blob/main/docs/models.md
 4. Cancer-Net BCa dataset: https://www.kaggle.com/datasets/amytai/cancernet-bca
 
