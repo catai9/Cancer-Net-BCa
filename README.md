@@ -84,7 +84,7 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
 	booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
     series = {Women in Computer Vision (WiCV)},
 	year = {2023},
-	url = {TBD}
+	url = {https://arxiv.org/abs/2304.05899}
 }
 ```
 
@@ -96,6 +96,6 @@ A demo of model inference with the Cancer-Net BCa-A model on a provided demo CDI
 	booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
     series = {Women in Computer Vision (WiCV)},
 	year = {2023},
-	url = {TBD}
+	url = {https://arxiv.org/abs/2304.05623}
 }
 ```
